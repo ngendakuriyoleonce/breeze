@@ -119,7 +119,7 @@ Only authenticated users can access the dashboard.
 ```bash
 git clone https://github.com/ngendakuriyoleonce/breeze.git
 
-cd project-name
+cd breeze
 
 composer install
 
