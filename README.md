@@ -117,7 +117,7 @@ Only authenticated users can access the dashboard.
 ## Installation
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/ngendakuriyoleonce/breeze.git
 
 cd project-name
 
